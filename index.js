@@ -12,7 +12,7 @@ var writeToFile = (fileName, data) => {
 
 function askQuestions() {
     console.log(questions.userQuestions);
-    // inquirer.prompt(questions)
+    // inquirer.prompt(questions.userQuestions)
 }
 
 // function to initialize program
