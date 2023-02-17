@@ -21,13 +21,12 @@ var writeToFile = (fileName, data) => {
 }
 
 function askQuestions () {
-    
+   console.log("Hello!") 
 }
-
-askQuestions()
 
 // function to initialize program
 function init() {
+    askQuestions()
 
 }
 
