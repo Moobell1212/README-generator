@@ -1,20 +1,15 @@
-const getLicense = require("./addLicenseInformation");
+# README generator
 
-// function to generate markdown for README
-function generateMarkdown(answers) {
-  // console.log("this is the generateMarkdown function")
-  return `# ${answers.title}
-
-[${getLicense.generateBadge(answers.license)}](#License)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-${answers.description}
+This is a README generator which uses Node.js to generate a README file based on user inputs.
 
 ## Table of contents
-- [Usage](#usage)
 - [Installation](#installation)
-- [Contributing](#contributing)
+- [Usage](#usage)
 - [License](#license)
+- [Contributing](#contributing)
 - [Tests](#tests)
 - [Questions](#questions)
 
