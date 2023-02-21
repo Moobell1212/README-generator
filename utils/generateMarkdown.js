@@ -24,11 +24,11 @@ ${answers.usage}
 ## Installation
 ${answers.installation}
 
-${getLicense.noLicense(answers.license)}
-${getLicense.licenseLink(answers.license)}
-
 ## Contributing
 ${answers.contributing}
+
+${getLicense.noLicense(answers.license)}
+${getLicense.licenseLink(answers.license)}
 
 ## Tests
 ${answers.tests}
