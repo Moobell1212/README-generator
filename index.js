@@ -9,14 +9,14 @@ const questions = require("./utils/questions.js")
 
 function askQuestions() {
     // console.log(questions.userQuestions);
-    inquirer.prompt(questions.userQuestions)
+    inquirer.prompt(questions)
     // .then((answers) => console.log(answers))
     .then((answers) => writeToFile(answers))
 }
 
 // function to write README file
 var writeToFile = (answers) => {
-    fs.writeFile('README.md', generateMarkdown(answers))
+    fs.writeFileSync(path.join(__dirname,'/Examples/README.md'), generateMarkdown(answers))
 }
 
 

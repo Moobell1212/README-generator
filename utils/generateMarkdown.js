@@ -1,6 +1,6 @@
 // function to generate markdown for README
 function generateMarkdown(answers) {
-  console.log("this is the generateMarkdown function")
+  // console.log("this is the generateMarkdown function")
   return `# {answers.title}
   
   /n
