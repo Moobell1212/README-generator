@@ -5,13 +5,16 @@ function noLicense(license) {
     }
     else {
         return `## License
-  This project is licensed under ${license}. For more information visit`
+  This project is licensed under the ${license} license. For more information visit`
     }
 }
 
 function licenseLink(license){
-    if (license === 'Apache 2.0 License') {
+    if (license === 'Apache License 2.0') {
         return `[opensource.org](https://opensource.org/licenses/Apache-2.0)`
+    }
+    if (license === 'BSD 3-Clause') {
+        return `[opensource.org](https://opensource.org/licenses/BSD-3-Clause)`
     }
     if (license === 'Eclipse Public License 1.0') {
         return `![opensource.org](https://opensource.org/licenses/EPL-1.0)`
@@ -31,8 +34,11 @@ function licenseLink(license){
 }
 
 function generateBadge(license) {
-    if (license === 'Apache 2.0 License') {
+    if (license === 'Apache License 2.0') {
         return `![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
+    }
+    if (license === 'BSD 3-Clause') {
+        return `![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)`
     }
     if (license === 'Eclipse Public License 1.0') {
         return `![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)`

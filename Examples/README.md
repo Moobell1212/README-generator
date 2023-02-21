@@ -20,7 +20,7 @@ hi
 hi
 
 ## License
-  This project is licensed under Apache 2.0 License. For more information visit
+  This project is licensed under the Apache License 2.0 license. For more information visit
 [opensource.org](https://opensource.org/licenses/Apache-2.0)
 
 ## Contributing
@@ -32,7 +32,7 @@ hi
 ## Questions
 Contact the developer at:
 
-Email: hi@hotmail.co.uk
+Email: hihi@hotmail.co.uk
 
-GitHub: [hi](https://github.com/hi)
+GitHub: [hi1@hotmail.co.uk](https://github.com/hi1@hotmail.co.uk)
   
