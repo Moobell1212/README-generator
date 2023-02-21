@@ -7,12 +7,12 @@ function generateMarkdown(answers) {
 ${answers.description}
 
 ## Table of contents
-- [Installation](#Installation)
-- [Usage](#Usage)
-- [License](#License)
-- [Contributing](#Contributing)
-- [Tests](#Tests)
-- [Questions](#Questions)
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
 ## Installation
 ${answers.installation}
@@ -31,6 +31,7 @@ ${answers.tests}
 
 ## Questions
 Contact the developer at:
+
 Email: ${answers.email}
 
 GitHub: [${answers.github}](https://github.com/${answers.github})
