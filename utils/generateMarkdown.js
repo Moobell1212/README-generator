@@ -4,20 +4,29 @@ function generateMarkdown(answers) {
   return `# ${answers.title}
   
 ## Description
+${answers.description}
 
 ## Table of contents
 
 ## Installation
+${answers.installation}
 
 ## Usage
+${answers.usage}
 
 ## License
+${answers.license}
 
 ## Contributing
+${answers.contributing}
 
 ## Tests
+${answers.tests}
 
 ## Questions
+${answers.email}
+
+${answers.github}
   `
 }
 
