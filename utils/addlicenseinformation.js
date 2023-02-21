@@ -25,9 +25,6 @@ function licenseLink(license){
     if (license === 'Mozilla Public License 2.0') {
         return `[opensource.org](https://opensource.org/licenses/MPL-2.0)`
     }
-    if (license === 'Perl') {
-        return `[opensource.org](https://opensource.org/licenses/Artistic-2.0)`
-    }
     else {
         return ""
     }
@@ -48,9 +45,6 @@ function generateBadge(license) {
     }
     if (license === 'Mozilla Public License 2.0') {
         return `![License: MPL 2.0](https://img.shields.io/badge/License-MPL_2.0-brightgreen.svg)`
-    }
-    if (license === 'Perl') {
-        return `![License: Artistic-2.0](https://img.shields.io/badge/License-Perl-0298c3.svg)`
     }
     else {
         return ""
