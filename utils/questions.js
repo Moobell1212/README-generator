@@ -49,7 +49,7 @@ const userQuestions = [
         type: 'list',
         name: 'license',
         message: 'What license is this project under?',
-        choices: ['Apache 2.0 License', 'Eclipse Public License 1.0', 'IBM Public License Version 1.0', 'ISC', 'MIT', 'Mozilla Public License 2.0', 'Perl', 'None']
+        choices: ['Apache 2.0 License', 'Eclipse Public License 1.0', 'ISC', 'MIT', 'Mozilla Public License 2.0', 'Perl', 'None']
     },
     {
         type: 'input',

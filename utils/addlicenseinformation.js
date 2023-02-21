@@ -16,9 +16,6 @@ function licenseLink(license){
     if (license === 'Eclipse Public License 1.0') {
         return `![opensource.org](https://opensource.org/licenses/EPL-1.0)`
     }
-    if (license === 'IBM Public License Version 1.0') {
-        return `[opensource.org](https://opensource.org/licenses/IPL-1.0)`
-    }
     if (license === 'ISC') {
         return `[opensource.org](https://opensource.org/licenses/ISC)`
     }
@@ -42,9 +39,6 @@ function generateBadge(license) {
     }
     if (license === 'Eclipse Public License 1.0') {
         return `![License](https://img.shields.io/badge/License-EPL_1.0-red.svg)`
-    }
-    if (license === 'IBM Public License Version 1.0') {
-        return `![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)`
     }
     if (license === 'ISC') {
         return `![License: ISC](https://img.shields.io/badge/License-ISC-blue.svg)`
