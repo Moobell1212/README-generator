@@ -7,6 +7,10 @@ This is a README generator which uses Node.js and the inquirer npm pachage to ge
 
 ## Demo
 
+
+https://user-images.githubusercontent.com/117773958/220438358-58773dbb-16e9-4b76-a83f-d83d1dcfa5f2.mp4
+
+
 ## Table of contents
 - [Installation](#installation)
 - [Usage](#usage)
