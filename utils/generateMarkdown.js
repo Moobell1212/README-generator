@@ -5,7 +5,7 @@ function generateMarkdown(answers) {
   // console.log("this is the generateMarkdown function")
   return `# ${answers.title}
 
-${getLicense.generateBadge(answers.license)}
+[${getLicense.generateBadge(answers.license)}](#License)
 
 ## Description
 ${answers.description}

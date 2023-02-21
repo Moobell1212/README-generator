@@ -1,6 +1,6 @@
 # hi
 
-![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+[](#License)
 
 ## Description
 hi
@@ -20,7 +20,7 @@ hi
 hi
 
 ## License
-  This project is licensed under MIT. For more information visit [opensource.org](https://opensource.org/)
+  This project is unlicensed.
 
 ## Contributing
 hi
