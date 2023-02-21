@@ -4,7 +4,9 @@ const getLicense = require("./addLicenseInformation");
 function generateMarkdown(answers) {
   // console.log("this is the generateMarkdown function")
   return `# ${answers.title}
-  
+
+${getLicense.generateBadge(answers.license)}
+
 ## Description
 ${answers.description}
 

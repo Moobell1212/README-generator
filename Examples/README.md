@@ -1,7 +1,9 @@
-# Hi
-  
+# hi
+
+![MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Description
-Hi
+hi
 
 ## Table of contents
 - [Installation](#installation)
@@ -12,25 +14,24 @@ Hi
 - [Questions](#questions)
 
 ## Installation
-Hi
+hi
 
 ## Usage
-Hi
+hi
 
 ## License
-### License
-  This project is licensed under Apache. For more information visit [opensource.org](https://opensource.org/)
+  This project is licensed under MIT. For more information visit [opensource.org](https://opensource.org/)
 
 ## Contributing
-Hi
+hi
 
 ## Tests
-Hi
+hi
 
 ## Questions
 Contact the developer at:
 
-Email: Hi
+Email: hi
 
-GitHub: [Hi](https://github.com/Hi)
+GitHub: [hi](https://github.com/hi)
   
