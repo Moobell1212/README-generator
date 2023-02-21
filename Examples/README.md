@@ -21,7 +21,8 @@ hi
 hi
 
 ## Questions
-hi
+Contact the developer at:
+Email: hi
 
-hi
+GitHub: [hi](https://github.com/hi)
   

@@ -24,9 +24,10 @@ ${answers.contributing}
 ${answers.tests}
 
 ## Questions
-${answers.email}
+Contact the developer at:
+Email: ${answers.email}
 
-${answers.github}
+GitHub: [${answers.github}](https://github.com/${answers.github})
   `
 }
 
