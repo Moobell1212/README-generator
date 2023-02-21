@@ -42,5 +42,4 @@ GitHub: [${answers.github}](https://github.com/${answers.github})
   `
 }
 
-// ${data.title}
 module.exports = generateMarkdown;

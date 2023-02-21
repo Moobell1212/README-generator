@@ -1,3 +1,4 @@
+// function to put license information and subsection into the README file
 function noLicense(license) {
     if (license === "None") {
         return `## License
@@ -9,6 +10,7 @@ function noLicense(license) {
     }
 }
 
+// function to generate the licence link in the license section of the README file
 function licenseLink(license){
     if (license === 'Apache License 2.0') {
         return `[opensource.org](https://opensource.org/licenses/Apache-2.0)`
@@ -33,6 +35,7 @@ function licenseLink(license){
     }
 }
 
+// function to generate the license badge under the title on the README file
 function generateBadge(license) {
     if (license === 'Apache License 2.0') {
         return `![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)`
@@ -57,6 +60,7 @@ function generateBadge(license) {
     }
 }
 
+// exporting all the above functions
 module.exports = {
     noLicense,
     generateBadge,

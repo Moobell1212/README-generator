@@ -1,6 +1,6 @@
-# hi
+# README generator
 
-[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#License)
+[![License](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](#License)
 
 ## Description
 hi
@@ -20,8 +20,8 @@ hi
 hi
 
 ## License
-  This project is licensed under the Apache License 2.0 license. For more information visit
-[opensource.org](https://opensource.org/licenses/Apache-2.0)
+  This project is licensed under the BSD 3-Clause license. For more information visit
+[opensource.org](https://opensource.org/licenses/BSD-3-Clause)
 
 ## Contributing
 hi
@@ -32,7 +32,7 @@ hi
 ## Questions
 Contact the developer at:
 
-Email: hihi@hotmail.co.uk
+Email: el@hotmail.co.uk
 
-GitHub: [hi1@hotmail.co.uk](https://github.com/hi1@hotmail.co.uk)
+GitHub: [Moobell1212](https://github.com/Moobell1212)
   

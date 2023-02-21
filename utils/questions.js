@@ -1,3 +1,4 @@
+// a npm to validate the user email input in the user questions
 var emailCheck = require("email-validator");
 
 const userQuestions = [
@@ -63,4 +64,5 @@ const userQuestions = [
     },
 ];
 
+// export the questions
 module.exports = userQuestions;
