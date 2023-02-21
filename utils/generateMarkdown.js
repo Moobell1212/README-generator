@@ -34,12 +34,12 @@ ${getLicense.licenseLink(answers.license)}
 ${answers.tests}
 
 ## Questions
-Contact the developer at:
+Contact the developer with any questions at:
 
 Email: ${answers.email}
 
 GitHub: [${answers.github}](https://github.com/${answers.github})
-  `
+`
 }
 
 module.exports = generateMarkdown;
