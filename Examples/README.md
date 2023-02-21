@@ -31,7 +31,7 @@ hi
 ## Questions
 Contact the developer at:
 
-Email: hi
+Email: hi@hotmail.co.uk
 
 GitHub: [hi](https://github.com/hi)
   

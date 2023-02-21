@@ -1,3 +1,5 @@
+var emailCheck = require("email-validator");
+
 const userQuestions = [
         {
             type: 'input',
@@ -12,7 +14,15 @@ const userQuestions = [
         {
             type: 'input',
             name: 'email',
-            message:'What email address would you like to use for this README?'
+            message:'What email address would you like to use for this README?',
+            validate: answer => {
+                if (!emailCheck.validate(answer)) {
+                    return "A valid email is required"
+                }
+                else {
+                    return true
+                }
+            }
         },
         {
             type: 'input',
