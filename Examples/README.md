@@ -1,6 +1,6 @@
 # hi
 
-[](#License)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#License)
 
 ## Description
 hi
@@ -20,7 +20,7 @@ hi
 hi
 
 ## License
-  This project is unlicensed.
+  This project is licensed under Apache 2.0 License. For more information visit [opensource.org](https://opensource.org/)
 
 ## Contributing
 hi
