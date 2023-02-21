@@ -10,12 +10,14 @@ const questions = require("./utils/questions.js")
 function askQuestions() {
     // console.log(questions.userQuestions);
     inquirer.prompt(questions.userQuestions)
-    .then((response) => console.log(response))
-    .then((response) => writeToFile(response))
+    // .then((answers) => console.log(answers))
+    .then((answers) => writeToFile(answers))
 }
 
 // function to write README file
-var writeToFile = (answers) => writeFile('README.md', generateMarkdown(answers))
+var writeToFile = (answers) => {
+    fs.writeFile('README.md', generateMarkdown(answers))
+}
 
 
 // function to initialize program
