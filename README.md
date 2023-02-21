@@ -3,7 +3,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-This is a README generator which uses Node.js to generate a README file based on user inputs.
+This is a README generator which uses Node.js and the inquirer npm pachage to generate a README file based on user inputs. It also uses an npm email validator to ensure that the email input is using a correct email format. Sections which require an input also have a validator to ensure user input.
 
 ## Demo
 
@@ -16,9 +16,27 @@ This is a README generator which uses Node.js to generate a README file based on
 - [Questions](#questions)
 
 ## Usage
+The demo above shows the program usage. Detailed steps are below.
 <ol>
-<li>The terminal must be opened, as shown below using Visual Studio Code on a Windows system.</li>
-<li>The index.js file must be run by typing 'node index.js</li>
+<li>The terminal must be opened to the correct directory, shown below using Visual Studio Code on a Windows system.</li>
+<li>The index.js file must be run by typing 'node index.js'</li>
+<li>Questions will run in the terminal which must be answered.</li>
+<ul>
+<li>There is a validator to the title of the project user input as shown below.</li>
+<li>There is an validator to ensure proper email format as shown below.</li>
+</ul>
+<li>Once the questions are answered, the README file will be added to the 'ExampleREADME' file.
+<li>The README will then print with the below information based off the user inputs</li>
+<ul>
+<li>The title of the project (1)</li>
+<li>The descption of the project (2)</li>
+<li>A table of contents with links to the corresponding section of the README (3)</li>
+<li>Instruction for installation (4)</li>
+<li>Usage of the project (5)</li>
+<li>The license used in the project (6) and the badge for the license (7). If there is no license used, the license section is removed and there is no license badge displayed</li>
+<li>How someone can contribute to the project (8)</li>
+<li>How the developer can be contacted with links via email (9) and a link to their GitHub repository (10)</li>
+</ul>
 </ol>
 
 ## Installation
