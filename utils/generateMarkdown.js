@@ -18,11 +18,11 @@ ${answers.description}
 - [Tests](#tests)
 - [Questions](#questions)
 
-## Installation
-${answers.installation}
-
 ## Usage
 ${answers.usage}
+
+## Installation
+${answers.installation}
 
 ${getLicense.noLicense(answers.license)}
 ${getLicense.licenseLink(answers.license)}
