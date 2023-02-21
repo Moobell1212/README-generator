@@ -13,10 +13,10 @@ https://user-images.githubusercontent.com/117773958/220438358-58773dbb-16e9-4b76
 Link to video demo: https://drive.google.com/file/d/1_OXqpSBsoghVm4w61YMDmU8P9RrcIQQr/view?usp=share_link
 
 ## Table of contents
-- [Installation](#installation)
 - [Usage](#usage)
-- [License](#license)
+- [Installation](#installation)
 - [Contributing](#contributing)
+- [License](#license)
 - [Tests](#tests)
 - [Questions](#questions)
 
