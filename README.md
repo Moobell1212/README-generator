@@ -31,12 +31,18 @@ The demo above shows the program usage. Detailed steps are below.
 <li>Questions will run in the terminal which must be answered.</li>
 <ul>
 <li>There is a validator to the title of the project user input as shown below.</li>
+</br>
 <img src="./Images/validatetitle.png" style="margin-top: 20px; margin-bottom:30px">
+</br>
 <li>There is an validator to ensure proper email format as shown below.</li>
+</br>
 <img src="./Images/emailvalidate.png" style="margin-top: 20px; margin-bottom:30px">
+</br>
 </ul>
 <li>Once the questions are answered, the README file will be added to the 'ExampleREADME' file.</li>
+</br>
 <img src="./Images/finalproduct.png" style="margin-top: 20px; margin-bottom:30px">
+</br>
 <li>The README will then print with the below information based off the user inputs</li>
 <ul>
 <li>The title of the project (1)</li>
@@ -49,7 +55,9 @@ The demo above shows the program usage. Detailed steps are below.
 
 <li>How the developer can be contacted with links via email (9) and a link to their GitHub repository (10)</li>
 </ul>
+</br>
 <img src="./Images/largeREADMEexample.png" style="margin-top: 20px; margin-bottom:30px">
+</br>
 </ol>
 
 ## Installation
