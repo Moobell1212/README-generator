@@ -1,7 +1,7 @@
-# README generator
+# Hi
   
 ## Description
-Short Description here!
+Hi
 
 ## Table of contents
 - [Installation](#installation)
@@ -12,24 +12,25 @@ Short Description here!
 - [Questions](#questions)
 
 ## Installation
-1) do this 2) then do this
+Hi
 
 ## Usage
-1) download 2) use
+Hi
 
 ## License
-Apache
+### License
+  This project is licensed under Apache. For more information visit [opensource.org](https://opensource.org/)
 
 ## Contributing
-Dont do it man!
+Hi
 
 ## Tests
-none lazy
+Hi
 
 ## Questions
 Contact the developer at:
 
-Email: elsethmeakin@hotmail.co.uk
+Email: Hi
 
-GitHub: [Moobell1212](https://github.com/Moobell1212)
+GitHub: [Hi](https://github.com/Hi)
   

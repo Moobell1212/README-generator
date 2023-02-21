@@ -1,3 +1,5 @@
+const getLicense = require("./addLicenseInformation");
+
 // function to generate markdown for README
 function generateMarkdown(answers) {
   // console.log("this is the generateMarkdown function")
@@ -20,8 +22,7 @@ ${answers.installation}
 ## Usage
 ${answers.usage}
 
-## License
-${answers.license}
+${getLicense.noLicense(answers.license)}
 
 ## Contributing
 ${answers.contributing}
