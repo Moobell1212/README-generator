@@ -25,16 +25,16 @@ The demo above shows the program usage. Detailed steps are below.
 <ol>
 <li>The terminal must be opened to the correct directory, shown below using Visual Studio Code on a Windows system.</li>
 <li>The index.js file must be run by typing 'node index.js'</li>
-<img src="./images/nodeindex.png" style="margin-top: 20px; margin-bottom:30px">
+<img src="./Images/nodeindex.png" style="margin-top: 20px; margin-bottom:30px">
 <li>Questions will run in the terminal which must be answered.</li>
 <ul>
 <li>There is a validator to the title of the project user input as shown below.</li>
-<img src="./images/validatetitle.png" style="margin-top: 20px; margin-bottom:30px">
+<img src="./Images/validatetitle.png" style="margin-top: 20px; margin-bottom:30px">
 <li>There is an validator to ensure proper email format as shown below.</li>
-<img src="./images/emailvalidate.png" style="margin-top: 20px; margin-bottom:30px">
+<img src="./Images/emailvalidate.png" style="margin-top: 20px; margin-bottom:30px">
 </ul>
 <li>Once the questions are answered, the README file will be added to the 'ExampleREADME' file.</li>
-<img src="./images/finalproduct.png" style="margin-top: 20px; margin-bottom:30px">
+<img src="./Images/finalproduct.png" style="margin-top: 20px; margin-bottom:30px">
 <li>The README will then print with the below information based off the user inputs</li>
 <ul>
 <li>The title of the project (1)</li>
@@ -47,7 +47,7 @@ The demo above shows the program usage. Detailed steps are below.
 
 <li>How the developer can be contacted with links via email (9) and a link to their GitHub repository (10)</li>
 </ul>
-<img src="./images/largeREADMEexample.png" style="margin-top: 20px; margin-bottom:30px">
+<img src="./Images/largeREADMEexample.png" style="margin-top: 20px; margin-bottom:30px">
 </ol>
 
 ## Installation
