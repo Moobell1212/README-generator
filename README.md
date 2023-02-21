@@ -25,7 +25,9 @@ The demo above shows the program usage. Detailed steps are below.
 <ol>
 <li>The terminal must be opened to the correct directory, shown below using Visual Studio Code on a Windows system.</li>
 <li>The index.js file must be run by typing 'node index.js'</li>
+</br>
 <img src="./Images/nodeindex.png" style="margin-top: 20px; margin-bottom:30px">
+</br>
 <li>Questions will run in the terminal which must be answered.</li>
 <ul>
 <li>There is a validator to the title of the project user input as shown below.</li>
