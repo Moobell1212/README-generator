@@ -25,6 +25,7 @@ ${answers.installation}
 ${answers.usage}
 
 ${getLicense.noLicense(answers.license)}
+${getLicense.licenseLink(answers.license)}
 
 ## Contributing
 ${answers.contributing}

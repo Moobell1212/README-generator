@@ -1,6 +1,6 @@
-# Hi
+# hi
 
-[![License: IPL 1.0](https://img.shields.io/badge/License-IPL_1.0-blue.svg)](#License)
+[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](#License)
 
 ## Description
 hi
@@ -20,7 +20,8 @@ hi
 hi
 
 ## License
-  This project is licensed under IBM Public License Version 1.0. For more information visit [opensource.org](https://opensource.org/)
+  This project is licensed under Apache 2.0 License. For more information visit
+[opensource.org](https://opensource.org/licenses/Apache-2.0)
 
 ## Contributing
 hi
