@@ -7,10 +7,16 @@ function generateMarkdown(answers) {
 
 [${getLicense.generateBadge(answers.license)}](#License)
 
+</br>
+
+<div align="center" id="top">
+
 [![Contributors](https://img.shields.io/github/contributors/${answers.github}/${answers.title}?style=for-the-badge)](https://github.com/${answers.github}/${answers.title}/graphs/contributors)
 [![Forks](https://img.shields.io/github/forks/${answers.github}/${answers.title}?style=for-the-badge)](https://github.com/${answers.github}/${answers.title}/forks)
 [![Stargazers](https://img.shields.io/github/stars/${answers.github}/${answers.title}?style=for-the-badge)](https://github.com/${answers.github}/${answers.title}/stargazers)
 [![Issues](https://img.shields.io/github/issues/${answers.github}/${answers.title}?style=for-the-badge)](https://github.com/${answers.github}/${answers.title}/issues)
+
+</div>
 
 ## Description
 ${answers.description}
@@ -26,8 +32,12 @@ ${answers.description}
 ## Usage
 ${answers.usage}
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Installation
 ${answers.installation}
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
 ${answers.contributing}
@@ -35,8 +45,12 @@ ${answers.contributing}
 ${getLicense.noLicense(answers.license)}
 ${getLicense.licenseLink(answers.license)}
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Tests
 ${answers.tests}
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Questions
 Contact the developer with any questions at:

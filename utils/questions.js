@@ -24,6 +24,12 @@ const userQuestions = [
             else { return true }
         }
     },
+    // {
+    //     type:'multiselect',
+    //     name: 'languages',
+    //     message: 'Which coding languages and technologies do you use in this project?',
+    //     choices: ["angular", "apollo", "aws", "azure", "bootstrap", "c", "cs", "cpp", "cassandra", "css", "html", "java", "js", "jest", "jquery", "nodejs", "py", "react", "ruby", "rust"]
+    // },
     {
         type: 'input',
         name: 'email',
