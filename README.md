@@ -2,6 +2,23 @@
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
+</br>
+
+<div align="center" id="top">
+
+[![Contributors](https://img.shields.io/github/contributors/Moobell1212/README-generator?style=for-the-badge)](https://github.com/Moobell1212/README-generator/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/Moobell1212/README-generator?style=for-the-badge)](https://github.com/Moobell1212/README-generator/forks)
+[![Stargazers](https://img.shields.io/github/stars/Moobell1212/README-generator?style=for-the-badge)](https://github.com/Moobell1212/README-generator/stargazers)
+[![Issues](https://img.shields.io/github/issues/Moobell1212/README-generator?style=for-the-badge)](https://github.com/Moobell1212/README-generator/issues)
+
+</br> 
+  
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,nodejs)](https://skillicons.dev)
+
+</div>
+
+</br>
+
 ## Description
 This is a README generator which uses Node.js and the inquirer npm pachage to generate a README file based on user inputs. It also uses an npm email validator to ensure that the email input is using a correct email format. Sections which require an input also have a validator to ensure user input.
 
@@ -60,6 +77,8 @@ The demo above shows the program usage. Detailed steps are below.
 </br>
 </ol>
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Installation
 To install, on the terminal type:
 ```
@@ -70,6 +89,7 @@ Install the NPM packages writing the below in the terminal:
 ```
 npm install
 ```
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contributing
 If there are any suggestions for improoving this README generator:
@@ -81,11 +101,21 @@ If there are any suggestions for improoving this README generator:
 <li>Create a pull request in the repository</li>
 </ol>
 
+Any contributions you make are greatly appreciated.
+
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## License
 This project is licensed under the MIT license. For more information visit [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Tests
 None
 
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ## Questions
 Contact the developer with any questions at the GitHub repository: [Moobell1212](https://github.com/Moobell1212).
+
+<p align="right">(<a href="#top">back to top</a>)</p>
