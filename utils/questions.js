@@ -4,8 +4,8 @@ var emailCheck = require("email-validator");
 const userQuestions = [
     {
         type: 'input',
-        name: 'title',
-        message: 'What is the title of your project?',
+        name: 'github',
+        message: 'What is your GitHub username?',
         validate: answer => {
             if (answer === "") {
                 return "Project title required"
@@ -15,8 +15,14 @@ const userQuestions = [
     },
     {
         type: 'input',
-        name: 'github',
-        message: 'What is your GitHub username?'
+        name: 'title',
+        message: 'What is the title of your project (as shown on GitHub)?',
+        validate: answer => {
+            if (answer === "") {
+                return "Project title required"
+            }
+            else { return true }
+        }
     },
     {
         type: 'input',

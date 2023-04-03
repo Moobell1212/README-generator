@@ -7,6 +7,11 @@ function generateMarkdown(answers) {
 
 [${getLicense.generateBadge(answers.license)}](#License)
 
+[![Contributors](https://img.shields.io/github/contributors/${answers.github}/${answers.title}?style=for-the-badge)](https://github.com/${answers.github}/${answers.title}/graphs/contributors)
+[![Forks](https://img.shields.io/github/forks/${answers.github}/${answers.title}?style=for-the-badge)](https://github.com/${answers.github}/${answers.title}/forks)
+[![Stargazers](https://img.shields.io/github/stars/${answers.github}/${answers.title}?style=for-the-badge)](https://github.com/${answers.github}/${answers.title}/stargazers)
+[![Issues](https://img.shields.io/github/issues/${answers.github}/${answers.title}?style=for-the-badge)](https://github.com/${answers.github}/${answers.title}/issues)
+
 ## Description
 ${answers.description}
 
