@@ -50,11 +50,6 @@ const userQuestions = [
     },
     {
         type: 'input',
-        name: 'installation',
-        message: 'What are the steps required to install your project?'
-    },
-    {
-        type: 'input',
         name: 'usage',
         message: 'How would a user use this project?'
     },

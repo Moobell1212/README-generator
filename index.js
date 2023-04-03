@@ -13,7 +13,7 @@ function askQuestions() {
 
 // function to write README file
 var writeToFile = (answers) => {
-    fs.writeFileSync(path.join(__dirname, '/ExampleREADME/README.md'), generateMarkdown(answers))
+    fs.writeFileSync(path.join(__dirname, '/GeneratedREADME/README.md'), generateMarkdown(answers))
 }
 
 // function call to initialize program
